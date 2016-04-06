@@ -3,7 +3,7 @@ Custom country flags for Virtual Radar Server.
 
 ##Prerequisites
 - VRS installed and running
-- VRS Custom Content Plugin installed
+- VRS Custom Content Plugin installed and enabled.
 
 ##Instructions
 
