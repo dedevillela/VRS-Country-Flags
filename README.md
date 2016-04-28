@@ -8,6 +8,6 @@ Custom country flags for Virtual Radar Server.
 ##Instructions
 
 - Clone or download the repo into a directory on the machine where VRS is running. Ensure you do not place the files under the Virtual Radar Server directory, since they could be overwritten on upgrades.
-- Configure the VRS Custom Content Plugin as shown below
+- Configure the VRS Custom Content Plugin as shown below (Change the destination root directory with your own choice).
 
 ![alt tag](https://github.com/dedevillela/VRS-Country-Flags/blob/master/vrs-custom-content-options.png)
