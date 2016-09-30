@@ -22,7 +22,7 @@ Feel free to download and share these files, suggest corrections, or send reques
 
 ##Other Projects (Outros Projetos)
 
-![VRS Operator Flags](http://b.repl.ca/v1/VRS-Operator_Flags-red.png)
+[![VRS Operator Flags](http://b.repl.ca/v1/VRS-Operator_Flags-red.png)](https://github.com/dedevillela/VRS-Operator-Flags)
 
 ![VRS Silhouettes](http://b.repl.ca/v1/VRS-Silhouettes-brightgreen.png)
 
