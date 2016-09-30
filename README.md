@@ -1,4 +1,4 @@
-# VRS-Country-Flags [![MIT License](http://b.repl.ca/v1/License-MIT-red.png)](LICENSE) ![VRS version 2.4.0](http://b.repl.ca/v1/VRS_version-2.4.0-blue.png) ![ADS-B Mode-S](http://b.repl.ca/v1/ADS--B-Mode--S-lightgrey.png)
+# VRS-Country-Flags [![MIT License](http://b.repl.ca/v1/License-MIT-red.png)](LICENSE) [![VRS version 2.4](http://b.repl.ca/v1/VRS_version-2.4-blue.png)](http://virtualradarserver.co.uk/Download.aspx) ![ADS-B Mode-S](http://b.repl.ca/v1/ADS--B-Mode--S-lightgrey.png)
 
 Custom country flags for [Virtual Radar Server](https://www.virtualradarserver.co.uk "Virtual Radar Server's Homepage") (a.k.a. VRS). This plug-in replaces the country text name with their respective national flag.
 
@@ -24,6 +24,6 @@ Feel free to download and share these files, suggest corrections, or send reques
 
 [![VRS Operator Flags](http://b.repl.ca/v1/VRS-Operator_Flags-red.png)](https://github.com/dedevillela/VRS-Operator-Flags)
 
-![VRS Silhouettes](http://b.repl.ca/v1/VRS-Silhouettes-brightgreen.png)
+[![VRS Silhouettes](http://b.repl.ca/v1/VRS-Silhouettes-brightgreen.png)](https://github.com/dedevillela/VRS-Silhouettes)
 
 
