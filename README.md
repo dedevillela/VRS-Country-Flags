@@ -16,11 +16,11 @@ Custom country flags for [Virtual Radar Server](https://www.virtualradarserver.c
 - In the Web interface, enable the Country option under the "List" tab ( Works best in the Brazilian Portuguese version).
 - Enjoy!
 
-##Contributions (Contribuições)
+##Contributions
 
 Feel free to download and share these files, suggest corrections, or send requests for more country flags, as I'm constantly updating this repository until all countries are available.
 
-##Other Projects (Outros Projetos)
+##Other Projects
 
 [![VRS Operator Flags](http://b.repl.ca/v1/VRS-Operator_Flags-red.png)](https://github.com/dedevillela/VRS-Operator-Flags)
 
