@@ -6,7 +6,6 @@ Custom country flags for [Virtual Radar Server](https://www.virtualradarserver.c
 - VRS Custom Content Plugin installed and enabled.
 
 ##Instructions
-
 - Clone or download the repo into a directory on the machine where VRS is running. Ensure you do not place the files under the Virtual Radar Server directory, since they could be overwritten on upgrades.
 - Configure the VRS Custom Content Plugin as shown below (Change the destination root directory accordingly with your own choice).
 
@@ -15,8 +14,10 @@ Custom country flags for [Virtual Radar Server](https://www.virtualradarserver.c
 - In the Web interface, enable the Country option under the "List" tab ( Works best in the Brazilian Portuguese version).
 - Enjoy!
 
-##Contributions
+##Acknowledgments
+This project was only possible thanks to the invaluable help of many individuals and communities, especially the creator of the VRS, Andrew Whewell, always solicitous in [his forum](https://forum.virtualradarserver.co.uk/); Andrew Hill, whose [flights.hillhome.org](http://flights.hillhome.org/) site inspired me deeply; and all of the [ADS-B Brasil](http://bradsb.com/forum/index.php) community, including Ramon Martins and Jaime Hempke, which together maintain the excellent site [TrafegoAereo.com](http://trafegoaereo.com/).
 
+##Contributions
 Feel free to download and share these files, suggest corrections, or send requests for more country flags, as I'm constantly updating this repository until all countries are available.
 
 ##Other Projects
