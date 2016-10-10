@@ -14,8 +14,8 @@ Custom country flags for [Virtual Radar Server](https://www.virtualradarserver.c
 - In the Web interface, enable the Country option under the "List" tab ( Works best in the Brazilian Portuguese version).
 - Enjoy!
 
-##Acknowledgments
-This project was only possible thanks to the invaluable help of many individuals and communities, especially the creator of the VRS, Andrew Whewell, always solicitous in [his forum](https://forum.virtualradarserver.co.uk/); Andrew Hill, whose [flights.hillhome.org](http://flights.hillhome.org/) site inspired me deeply; and all of the [ADS-B Brasil](http://bradsb.com/forum/index.php) community, including Ramon Martins and Jaime Hempke, which together maintain the excellent site [TrafegoAereo.com](http://trafegoaereo.com/).
+##Acknowledgments (Agradecimentos)
+This project was only possible thanks to the invaluable help of many individuals and communities, especially the creator of the VRS, Andrew Whewell, always solicitous in [![his forum](https://img.shields.io/badge/VRS-Forum-blue.svg)](https://forum.virtualradarserver.co.uk/); Andrew Hill, whose [![flights.hillhome.org](https://img.shields.io/badge/flights-hillhome.org-ADD6FF.svg)](http://flights.hillhome.org/) site inspired me deeply; and all of the [![ADS-B Brasil](https://img.shields.io/badge/ADS--B-Brasil-lightgrey.svg)](http://bradsb.com/forum/index.php) community, including Ramon Martins and Jaime Hempke, which together maintain the excellent site [![TrafegoAereo.com](https://img.shields.io/badge/Trafego-Aereo-yellowgreen.svg)](http://trafegoaereo.com/).
 
 ##Contributions
 Feel free to download and share these files, suggest corrections, or send requests for more country flags, as I'm constantly updating this repository until all countries are available.
