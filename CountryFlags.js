@@ -24,7 +24,8 @@ function customFormatCountryFlagImageHtml(aircraft)
         var result = '';
         if(aircraft.country.val) {
             var codeToUse = '';
-            var codeToUse = aircraft.country.val;          
+            var codeToUse = aircraft.country.val;
+            //Place images on 'country' folder
             result = '<img src="images/web-country/Wdth-27/Hght-20';
             if(VRS.browserHelper.isHighDpi()) result += '/HiDpi';
             result += '/' + encodeURIComponent(codeToUse) +'.bmp" width="27px" height="20px" />';
