@@ -1,4 +1,4 @@
-# VRS-Country-Flags [![MIT License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE) [![VRS version 2.4](https://img.shields.io/badge/VRS-v2.4-blue.svg)](http://virtualradarserver.co.uk/Download.aspx) [![Build Status](https://scrutinizer-ci.com/g/dedevillela/VRS-Country-Flags/badges/build.png?b=master)](https://scrutinizer-ci.com/g/dedevillela/VRS-Country-Flags/build-status/master)
+# VRS-Country-Flags [![MIT License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE) [![VRS version 2.4](https://img.shields.io/badge/VRS-v2.4-blue.svg)](http://virtualradarserver.co.uk/Download.aspx) [![Build Status](https://scrutinizer-ci.com/g/dedevillela/VRS-Country-Flags/badges/build.png?b=master)](https://scrutinizer-ci.com/g/dedevillela/VRS-Country-Flags/build-status/master) [![GitHub release](https://img.shields.io/github/release/dedevillela/VRS-Country-Flags.svg)]()
 Custom country flags for [Virtual Radar Server](https://www.virtualradarserver.co.uk "Virtual Radar Server's Homepage") (a.k.a. VRS). This plug-in replaces the country text name with their respective national flag.
 
 ##Prerequisites
