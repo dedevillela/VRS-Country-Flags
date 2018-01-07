@@ -1,0 +1,15 @@
+{
+  "name": "VRS-Country-Flags",
+  "version": "1.0.0",
+  "main": "CountryFlags.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Andre Villela",
+  "license": "MIT",
+  "description": "Custom country flags for Virtual Radar Server (a.k.a. VRS). This plug-in replaces the country text name with their respective national flag.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedevillela/VRS-Country-Flags.git"
+  }
+}
